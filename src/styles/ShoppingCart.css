@@ -1,0 +1,71 @@
+.shoppingCart {
+    background-color: lightgray;
+    overflow: scroll;
+    position: fixed;
+    top: 0;
+    right: -320px;
+    height: 100vh;
+    width: 261px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    padding: 25px;
+    color: black;
+    transition: right 0.3s;
+}
+
+.openCartButton{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.fa-cart-shopping{
+    font-size: 35px;
+    line-height: 0;
+    padding: 0.2em 0.3em;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    transition: all 0.2s;
+}
+.fa-cart-shopping:hover{
+    color: rgb(38, 21, 233);
+    font-size: 40px;
+}
+
+
+.cartButton{
+    color: white;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    background-color: rgb(56, 56, 62);
+    border-radius: 50%;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.cartButton :hover{
+    color: black;
+    background-color: lightgray;
+}
+
+.icon{
+    font-size: 35px;
+    line-height: 0;
+    padding: 0.2em 0.3em;
+}
+
+
+
+
+
+.shoppingCart ul {
+    list-style: none;
+    padding: 0;
+}
+
+.shoppingCart ul li {
+    margin-bottom: 10px;
+}
