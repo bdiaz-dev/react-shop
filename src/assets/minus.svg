@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="666.66669"
+   height="666.66669"
+   viewBox="0 0 20.000001 20.000001"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="minus.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.04625"
+     inkscape:cx="334.05018"
+     inkscape:cy="334.52808"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M 10,20 C 5.28595,20 2.92893,20 1.46447,18.5355 0,17.0711 0,14.714 0,10 0,5.28595 0,2.92893 1.46447,1.46447 2.92893,0 5.28595,0 10,0 14.714,0 17.0711,0 18.5355,1.46447 20,2.92893 20,5.28595 20,10 c 0,4.714 0,7.0711 -1.4645,8.5355 C 17.0711,20 14.714,20 10,20 Z m 3.75,-10 c 0,0.4142 -0.3358,0.75 -0.75,0.75 H 7 C 6.58579,10.75 6.25,10.4142 6.25,10 6.25,9.5858 6.58579,9.25 7,9.25 h 6 c 0.4142,0 0.75,0.3358 0.75,0.75 z"
+     fill="#1C274C"
+     id="path2"
+     style="fill:#00ffff" />
+</svg>

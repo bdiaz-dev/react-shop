@@ -1,10 +1,12 @@
 
 import '../styles/BrunoDiazSign.css'
 
-export function BrunoDiazSign () {
+export function BrunoDiazSign() {
     return (
         <div className="BrunoDiazSign">
-            <b>{`By BrunoDiaz.dev{/}`}</b>
+            <a href="mailto:brunodiaz.dev@gmail.com">
+                <b>{`By BrunoDiaz.dev( )`}</b>
+            </a>
         </div>
     )
 }

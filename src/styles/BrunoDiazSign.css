@@ -1,6 +1,7 @@
 
 .BrunoDiazSign{
-    background-color: rgba(234, 225, 225, 0.51);
+    backdrop-filter: blur(10px);
+    background-color: rgba(234, 225, 225, 0.276);
     position: fixed;
     bottom: 20px;
     right: 20px;
